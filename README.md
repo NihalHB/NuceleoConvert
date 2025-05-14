@@ -107,14 +107,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## Acknowledgments
-
-- Developed by **Nihal Habib**, PhD Candidate at **Laboratory of genomics, epigenetics, personalized and predictive medicine (MedPerOne). Mohammed VI University of Sciences & Health (UM6SS), Casablanca, Morocco**.
-- Fulbright Scholar at **Computational Biology Institute. George Washington University, Washington DC, USA**.
-
-
----
-
 ## Contact
 
 For questions, feedback, or collaboration opportunities, please contact:
