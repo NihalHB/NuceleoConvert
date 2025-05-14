@@ -1,6 +1,6 @@
-# NucleoConvert Analytics 
+# NucleoConvert 
 
-**NucleoConvert Analytics** is a comprehensive bioinformatics tool developed to facilitate DNA-to-RNA sequence conversion while providing advanced analytical capabilities. Built using the R Shiny framework, this application integrates sequence processing, quality control, and visualization features into a single platform. It is designed for researchers, educators, and students in molecular biology and bioinformatics.
+**NucleoConvert** is a comprehensive bioinformatics tool developed to facilitate DNA-to-RNA sequence conversion while providing advanced analytical capabilities. Built using the R Shiny framework, this application integrates sequence processing, quality control, and visualization features into a single platform. It is designed for researchers, educators, and students in molecular biology and bioinformatics.
 
 ---
 
