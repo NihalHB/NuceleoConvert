@@ -1,6 +1,6 @@
 # NucleoConvert 
 
-**NucleoConvert** is a comprehensive bioinformatics tool developed to facilitate DNA-to-RNA sequence conversion while providing advanced analytical capabilities. Built using the R Shiny framework, this application integrates sequence processing, quality control, and visualization features into a single platform. It is designed for researchers, educators, and students in molecular biology and bioinformatics.
+**NucleoConvert** is an all-in-one R Shiny application designed to seamlessly convert DNA sequences into RNA while unlocking a suite of quality checks, statistical insights, and rich interactive visualizations. Whether you're a researcher, educator, or student, this tool brings sequence exploration to your fingertips—with style.
 
 ---
 
@@ -103,7 +103,8 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. 
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
